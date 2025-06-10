@@ -36,6 +36,7 @@ PRODUCT_PACKAGES += \
     audio.primary.pineapple \
     audio.r_submix.default \
     audio.usbv2.default \
+    libats \
     libagm_compress_plugin \
     libagm_mixer_plugin \
     libagm_pcm_plugin \

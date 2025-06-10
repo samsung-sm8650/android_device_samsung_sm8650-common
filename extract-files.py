@@ -41,7 +41,9 @@ lib_fixups: lib_fixups_user_type = {
     ): lib_fixup_vendor_suffix,
     (
         'libar-pal',
+        'libats',
         'liblx-osal',
+        'libar-gsl',
     ): lib_fixup_remove,
 }
 
